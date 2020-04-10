@@ -88,4 +88,9 @@ open class KWSimpleAlert: UIView {
         self.removeFromSuperview()
         completion?()
     }
+    
+    
+    public func printHello() {
+        print("Hello ")
+    }
 }

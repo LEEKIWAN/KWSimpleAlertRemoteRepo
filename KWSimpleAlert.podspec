@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KWSimpleAlert'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A description of KWSimpleAlert.'
 
 # This description is used to generate tags and improve search results.
@@ -29,6 +29,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '13.0'
 
   s.source_files = 'KWSimpleAlert/Classes/**/*'
+  s.swift_versions = '5.0'
   
   # s.resource_bundles = {
   #   'KWSimpleAlert' => ['KWSimpleAlert/Assets/*.png']

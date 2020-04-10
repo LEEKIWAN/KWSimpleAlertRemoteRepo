@@ -1,0 +1,16 @@
+PODS:
+  - KWSimpleAlert (0.1.0)
+
+DEPENDENCIES:
+  - KWSimpleAlert (from `../`)
+
+EXTERNAL SOURCES:
+  KWSimpleAlert:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KWSimpleAlert: 9217bf94693ab007b21362de2fb4c53c69737640
+
+PODFILE CHECKSUM: e0144bc5ccb4942b2c139a9fc555fa89f9721cff
+
+COCOAPODS: 1.9.1
