@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'KWSimpleAlert_Example' do
+  pod 'KWSimpleAlert', :path => '../'
+
+  target 'KWSimpleAlert_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
