@@ -1,4 +1,6 @@
 
+import UIKit
+
 open class KWSimpleAlert: UIView {
     private var contentView: UIView!
     private var titleLabel: UILabel!
